@@ -1,11 +1,11 @@
 <h1 align="center">Hi, Ich bin Timo</h1>
 <h3 align="center">Ein lernender Web- und Software Entwickler aus Stuttgart</h3>
 
-- 🔭 Schulische Repos: **[Java](https://github.com/elpatron18/Java) & [Medienprogrammierung](https://github.com/elpatron18/MPR)**
+🔭 Schulische Repos: **[Java](https://github.com/elpatron18/Java) & [Medienprogrammierung](https://github.com/elpatron18/MPR)**
 
-- 🌱 Gerade lerne ich **JavaScript und Adobe Illustrator**
+🌱 Gerade lerne ich **JavaScript und Adobe Illustrator**
 
-- 📐 In meiner Freizeit mach ich **Project Euler**
+📐 In meiner Freizeit mach ich **Project Euler**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
