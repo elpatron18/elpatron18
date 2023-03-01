@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-  # Hi, Ich bin Timo<img src="https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47wq5ktxtfg0xvnr5qdnvn7ugs5b114v2a0rythfx7&rid=giphy.gif&ct=g" width="100">
+  <h1>Hi, Ich bin Timo</h1><img src="https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47wq5ktxtfg0xvnr5qdnvn7ugs5b114v2a0rythfx7&rid=giphy.gif&ct=g" width="100">
 </div>
 
 
