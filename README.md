@@ -1,35 +1,34 @@
 <h1 align="center">Hi, ich bin Timo <img src="https://media2.giphy.com/media/aDS4z67KKaumbMVanT/giphy.gif?cid=ecf05e478zjvkdlhpb6risqvqaf7nd7i0v79mlzelvvyjrzs&rid=giphy.gif&ct=g" width="70"></h1> 
 
 
-<h3 align="center">Ein angehender Web- und Software Entwickler aus Stuttgart</h3>
+<h3 align="center">Ein angehender Web- und Software Entwickler aus dem Raum Stuttgart</h3>
 
-🏫 Schulische Repos: [`Java`](https://github.com/elpatron18/Java) & [`Web-Programmierung`](https://github.com/elpatron18/MPR)
+🏫 Schulische Repos: **[`Java`](https://github.com/elpatron18/Java) & [`Web-Programmierung`](https://github.com/elpatron18/MPR)**
 
 🧠 Gerade lerne ich **[`JavaScript`](https://github.com/elpatron18/MPR/JavaScript) und Adobe Illustrator** und ein auf TypeCast Animations-Programm namens [`Motion Canvas`](https://github.com/elpatron18/motion-canvas)
 
 📐 In meiner Freizeit lös ich gerne **[Project Euler](https://projecteuler.net/about)** Aufgaben
 
-<h3 align="left">Sprachen und Tools:</h3>
+<h3 align="left">Programme und Tools</h3>
 <p align="left">
-<!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
 
 <table>
   <tr>
-    <td><h3>IDEs</h3></td>
-    <td><h3>Adobe</h3></td>
-    <td><h3>Sonstiges</h3 width="30%"></td>
+    <td><h4 align="center">IDEs</h4></td>
+    <td><h4 align="center">Adobe</h4></td>
+    <td><h4 align="center">Sonstiges</h4></td>
   </tr>
   <tr>
-    <td>Text in Spalte 1</td>
+    <td>
+      <!-- IntelliJ -->
+        <a href="https://www.jetbrains.com/de-de/idea/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" alt="IntelliJ" width="40" height="40"/> </a>
+      <!-- PhpStorm -->
+        <a href="https://www.jetbrains.com/de-de/phpstorm/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/1200px-PhpStorm_Icon.svg.png" alt="PhpStorm" width="40" height="40"/> </a>
+      <!-- VSC -->
+        <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual Studio Code" width="40" height="40"/> </a>
+      <!-- Eclipse -->
+        <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" alt="Eclipse" width="40" height="40"/> </a>
+    </td>
     <td>
       <!-- Photoshop -->
         <a href="https://www.adobe.com/de/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="react" width="40" height="40"/> </a>
@@ -38,8 +37,13 @@
       <!-- InDesign -->
         <a href="https://www.adobe.com/de/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" alt="react" width="40" height="40"/> </a>   
       <!-- Premiere Pro -->
-        <a href="https://www.adobe.com/de/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" alt="react" width="40" height="40"/> </a> 
+        <a href="https://www.adobe.com/de/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" alt="Premiere Pro" width="40" height="40"/> </a> 
     </td>
-    <td>Text in Spalte 3</td>
+    <td>
+      <!-- Notion -->
+        <a href="https://www.notion.so/de-de" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="Notion" width="40" height="40"/> </a>
+      <!-- Motion Canvas -->
+        <a href="https://github.com/motion-canvas" target="_blank" rel="noreferrer"> <img src="MotionCanvas.png" alt="Motion Canvas" width="40" height="40"/> </a> 
+    </td>
   </tr>
 </table>
