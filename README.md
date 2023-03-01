@@ -3,7 +3,7 @@
 
 <h3 align="center">Ein angehender Web- und Software Entwickler aus dem Raum Stuttgart</h3>
 
-🏫 Schulische Repos: **[`Java`](https://github.com/elpatron18/Java) & [`Web-Programmierung`](https://github.com/elpatron18/MPR)**
+🏫 Schulische Repositories: **[`Java`](https://github.com/elpatron18/Java) & [`Web-Programmierung`](https://github.com/elpatron18/MPR)**
 
 🧠 Gerade lerne ich [`JavaScript`](https://github.com/elpatron18/MPR/JavaScript) und **[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)** und ein auf TypeCast Animations-Programm namens [`Motion Canvas`](https://github.com/elpatron18/motion-canvas)
 
