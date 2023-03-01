@@ -5,15 +5,14 @@
 
 🏫 Schulische Repos: **[`Java`](https://github.com/elpatron18/Java) & [`Web-Programmierung`](https://github.com/elpatron18/MPR)**
 
-🧠 Gerade lerne ich **[`JavaScript`](https://github.com/elpatron18/MPR/JavaScript) und Adobe Illustrator** und ein auf TypeCast Animations-Programm namens [`Motion Canvas`](https://github.com/elpatron18/motion-canvas)
+🧠 Gerade lerne ich [`JavaScript`](https://github.com/elpatron18/MPR/JavaScript) und **[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)** und ein auf TypeCast Animations-Programm namens [`Motion Canvas`](https://github.com/elpatron18/motion-canvas)
 
 📐 In meiner Freizeit lös ich gerne **[Project Euler](https://projecteuler.net/about)** Aufgaben
 
+---
+<h3 align="center">Programme und Tools</h3>
 
-<h3 align="left">Programme und Tools</h3>
-<p align="left">
-
-<table>
+<table align="center">
   <tr>
     <td><h4 align="center">IDEs</h4></td>
     <td><h4 align="center">Adobe</h4></td>
