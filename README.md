@@ -3,7 +3,7 @@
 
 🔭 Schulische Repos: **[Java](https://github.com/elpatron18/Java) & [Medienprogrammierung](https://github.com/elpatron18/MPR)**
 
-🌱 Gerade lerne ich **JavaScript und Adobe Illustrator**
+🌱 Gerade lerne ich **JavaScript und Adobe Illustrator** und ein auf TypeCast-Basiertes Animations-Programm namens **[Motion Canvas](https://github.com/elpatron18/motion-canvas)
 
 📐 In meiner Freizeit mach ich **Project Euler**
 
