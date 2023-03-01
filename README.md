@@ -33,7 +33,7 @@
       <!-- Photoshop -->
         <a href="https://www.adobe.com/de/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="react" width="40" height="40"/> </a>
       <!-- Illustrator -->
-        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img   src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  
+        <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img   src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="illustrator" width="40" height="40"/> </a>  
       <!-- InDesign -->
         <a href="https://www.adobe.com/de/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" alt="react" width="40" height="40"/> </a>   
       <!-- Premiere Pro -->
