@@ -1,9 +1,9 @@
 <h1 align="center">Hi, Ich bin Timo</h1>
 <h3 align="center">Ein lernender Web- und Software Entwickler aus Stuttgart</h3>
 
-🔭 Schulische Repos: **[Java](https://github.com/elpatron18/Java) & [Medienprogrammierung](https://github.com/elpatron18/MPR)**
+🏫 Schulische Repos: **[Java](https://github.com/elpatron18/Java) & [Medienprogrammierung](https://github.com/elpatron18/MPR)**
 
-🌱 Gerade lerne ich **JavaScript und Adobe Illustrator** und ein auf TypeCast Animations-Programm namens **[Motion Canvas](https://github.com/elpatron18/motion-canvas)**
+🧠 Gerade lerne ich **JavaScript und Adobe Illustrator** und ein auf TypeCast Animations-Programm namens **[Motion Canvas](https://github.com/elpatron18/motion-canvas)**
 
 📐 In meiner Freizeit lös ich gerne **[Project Euler](https://projecteuler.net/about)** Aufgaben
 
