@@ -26,7 +26,7 @@
   <tr>
     <td><h3>IDEs</h3></td>
     <td><h3>Adobe</h3></td>
-    <td><h3>H</h3></td>
+    <td><h3>Sonstiges</h3 width="30%"></td>
   </tr>
   <tr>
     <td>Text in Spalte 1</td>
