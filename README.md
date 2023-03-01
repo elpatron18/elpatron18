@@ -7,7 +7,7 @@
 
 🧠 Gerade lerne ich [`JavaScript`](https://github.com/elpatron18/MPR/JavaScript) und **[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)** und ein auf TypeCast Animations-Programm namens [`Motion Canvas`](https://github.com/elpatron18/motion-canvas)
 
-📐 In meiner Freizeit lös ich gerne **[Project Euler](https://projecteuler.net/about)** Aufgaben
+📐 In meiner Freizeit lös ich gerne **[Project Euler](https://projecteuler.net/about)** Aufgaben und gelengentlich **[3D Modellierung / Druck](https://www.autodesk.de/products/fusion-360/)**
 
 ---
 <h3 align="center">Programme und Tools</h3>
@@ -44,6 +44,8 @@
         <a href="https://www.notion.so/de-de" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/2048px-Notion-logo.svg.png" alt="Notion" width="40" height="40"/> </a>
       <!-- Motion Canvas -->
         <a href="https://github.com/motion-canvas" target="_blank" rel="noreferrer"> <img src="MotionCanvas.png" alt="Motion Canvas" width="40" height="40"/> </a> 
+      <!-- Fusion360 -->
+        <a href="https://www.autodesk.de/products/fusion-360/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/480/autodesk-fusion-360.png" alt="Fusion360" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
