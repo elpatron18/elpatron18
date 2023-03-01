@@ -1,4 +1,4 @@
-<h1 align="center">Hi, ich bin Timo <img src="https://media0.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif?cid=ecf05e47wq5ktxtfg0xvnr5qdnvn7ugs5b114v2a0rythfx7&rid=giphy.gif&ct=g" width="70"></h1> 
+<h1 align="center">Hi, ich bin Timo <img src="https://media4.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif?cid=ecf05e478zjvkdlhpb6risqvqaf7nd7i0v79mlzelvvyjrzs&rid=giphy.gif&ct=g" width="70"></h1> 
 
 
 <h3 align="center">Ein angehender Web- und Software Entwickler aus Stuttgart</h3>
