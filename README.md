@@ -5,7 +5,7 @@
 
 🌱 Gerade lerne ich **JavaScript und Adobe Illustrator** und ein auf TypeCast-Basiertes Animations-Programm namens **[Motion Canvas](https://github.com/elpatron18/motion-canvas)**
 
-📐 In meiner Freizeit mach ich **Project Euler**
+📐 In meiner Freizeit mach ich **[Project Euler](https://projecteuler.net/about)** Aufgaben
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
