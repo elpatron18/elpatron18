@@ -1,4 +1,5 @@
-<h1 align="center">Hi, Ich bin Timo 👋</h1>
+<h1 align="center">Hi, Ich bin Timo</h1> <img src="https://i.pinimg.com/originals/65/e4/1d/65e41db1f1eedc24b061f3a8cdcf7200.gif" width="60">
+
 <h3 align="center">Ein angehender Web- und Software Entwickler aus Stuttgart</h3>
 
 🏫 Schulische Repos: **[```Java```](https://github.com/elpatron18/Java) & [```Medienprogrammierung```](https://github.com/elpatron18/MPR)**
