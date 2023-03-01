@@ -26,7 +26,26 @@
 <!-- Photoshop -->
   <a href="https://www.adobe.com/de/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="react" width="40" height="40"/> </a>   
 <!-- InDesign -->
-  <a href="https://www.adobe.com/de/products/indesign.html?promoid=S36FMXDK&mv=other" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" alt="react" width="40" height="40"/> </a>   
+  <a href="https://www.adobe.com/de/products/indesign.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/cc/icons/indesign.svg" alt="react" width="40" height="40"/> </a>   
 <!-- Premiere Pro -->
   <a href="https://www.adobe.com/de/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/pr_appicon.svg" alt="react" width="40" height="40"/> </a> 
 </p>
+
+<table border-collapse: collapse;
+    width: 100%;>
+  <tr>
+    <td>Spalte 1</td>
+    <td>Spalte 2</td>
+    <td>Spalte 3</td>
+  </tr>
+  <tr>
+    <td>Text in Spalte 1</td>
+    <td>Text in Spalte 2</td>
+    <td>Text in Spalte 3</td>
+  </tr>
+  <tr>
+    <td>Text in Spalte 1</td>
+    <td>Text in Spalte 2</td>
+    <td>Text in Spalte 3</td>
+  </tr>
+</table>
