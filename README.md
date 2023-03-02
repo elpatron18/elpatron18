@@ -5,7 +5,7 @@
 
 🏫 Schulische Repositories: **[`Java`](https://github.com/elpatron18/Java) & [`Web-Programmierung`](https://github.com/elpatron18/MPR)**
  
-🔨 Gerade in Arbeit: **[`Minesweeper`](https://github.com/elpatron18/MPR/JavaScript/04_MineSweeper)**
+🔨 Gerade in Arbeit: **[`Minesweeper`](https://github.com/elpatron18/MPR/tree/master/JavaScript/04_MineSweeper)**
 
 🧠 Gerade lerne ich [`JavaScript`](https://github.com/elpatron18/MPR/JavaScript) und **[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)** und ein auf TypeCast Animations-Programm namens [`Motion Canvas`](https://github.com/elpatron18/motion-canvas)
 
