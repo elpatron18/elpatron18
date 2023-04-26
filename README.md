@@ -7,8 +7,7 @@
  
 🔨 Gerade in Arbeit: **[`Minesweeper`](https://elpatron18.github.io/Minesweeper)** & **[`RaspberryPi Dashboard`](https://github.com/elpatron18/RPi_Dashboard)**
 
-🧠 Gerade lerne ich **[`JavaScript`](https://github.com/elpatron18/MPR/JavaScript)** und **[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)** und ein auf TypeCast Animations-Programm namens **[`Motion Canvas`](https://github.com/elpatron18/motion-canvas)**
-
+🧠 Gerade lerne ich **[`JavaScript`](https://github.com/elpatron18/MPR/JavaScript)** und **[Adobe Illustrator](https://www.adobe.com/in/products/illustrator.html)**
 📐 In meiner Freizeit lös ich gerne **[Project Euler](https://projecteuler.net/about)** Aufgaben und gelengentlich **[3D Modellierung / Druck](https://www.autodesk.de/products/fusion-360/)**
 
 ---
